@@ -1,0 +1,23 @@
+{
+  "name": "sahalieweb",
+  "version": "1.0.0",
+  "description": "Sahalie Web Site",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pmoriartyphoenix@github.com/PmoriartyPhoenix/SahalieWeb.git"
+  },
+  "keywords": [
+    "SahalieSkiClub",
+    "website"
+  ],
+  "author": "jeisenma@umich.edu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PmoriartyPhoenix/SahalieWeb/issues"
+  },
+  "homepage": "https://github.com/PmoriartyPhoenix/SahalieWeb#readme"
+}
